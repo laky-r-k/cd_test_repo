@@ -4,3 +4,5 @@ def f(x):
 
 
 if :
+
+return x**2
