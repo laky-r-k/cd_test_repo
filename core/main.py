@@ -7,6 +7,5 @@ def f(x):
         pass
 x = numpy.linspace(0, 10, 100)
 y = f(xasjdf);
-asdfd
 
 
