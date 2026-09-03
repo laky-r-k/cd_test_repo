@@ -1,8 +1,8 @@
 import numpy
 import matplotlib.pyplot as plt
 def f(x):
-    if ajf==asnfd:
-        pass
+    if x > 0:
+        return x
     else:
         pass
 x = numpy.linspace(0, 10, 100)
