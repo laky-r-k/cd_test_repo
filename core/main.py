@@ -6,7 +6,7 @@ def f(x):
     else:
         pass
 x = numpy.linspace(0, 10, 100)
-y = f(x)
+y = f(x
 
 
 
